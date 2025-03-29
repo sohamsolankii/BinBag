@@ -1,0 +1,19 @@
+{
+	"name": "binbag",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Soham Solanki",
+	"scripts": {
+		"start": "node src/index.js",
+		"dev": "npx nodemon src/index.js"
+	},
+	"keywords": [],
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"dotenv": "^16.4.7",
+		"express": "^4.21.2",
+		"jsonwebtoken": "^9.0.2",
+		"mongoose": "^8.13.1"
+	}
+}
