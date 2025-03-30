@@ -1,3 +1,6 @@
+### Postman Documentation Link:
+[Postman Documentation](https://documenter.getpostman.com/view/34699973/2sB2cPk5Zk)
+
 ### Setup the project
 
  - Download this template from github and open it in your favourite text editor. 
